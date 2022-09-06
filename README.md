@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **VueJS 3**
 
 - 💬 Ask me about **Worpress, TYPO3 and Frontend Developing**
 
